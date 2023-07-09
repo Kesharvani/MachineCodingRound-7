@@ -1,0 +1,11 @@
+.continent_container {
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+  align-items: center;
+}
+.card_container {
+  display: flex;
+  gap: 1rem;
+  flex-wrap: wrap;
+}
